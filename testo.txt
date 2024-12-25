@@ -1,0 +1,1 @@
+Questio e` il mio primo file gestito con git
