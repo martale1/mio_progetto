@@ -1,1 +1,2 @@
 Questio e` il mio primo file gestito con git
+Sto imparando ad usare git!
